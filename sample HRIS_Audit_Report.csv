@@ -1,0 +1,6 @@
+Employee_ID,Name,Hire_Date,Termination_Date,I-9_Verified,Workday_Entry,Document_Stored,Discrepancy
+101,Alice Johnson,2023-01-15,,True,True,True,OK
+102,Bob Smith,2022-06-10,,True,False,True,Check Record
+103,Charlie Brown,2021-11-23,2023-05-30,False,True,False,Check Record
+104,David Lee,2020-09-05,,True,True,True,OK
+105,Emma Watson,2019-12-01,2023-07-15,False,False,True,Check Record
